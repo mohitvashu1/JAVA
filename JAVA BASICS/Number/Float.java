@@ -8,6 +8,9 @@ public class Float {
         //Double
         double MyNumber = 48.9d;
         System.out.println(MyNumber);
+
+        float f = 0.7f;
+        System.out.printf("%.20f%n",f);
 }
 }
 
